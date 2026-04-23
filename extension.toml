@@ -1,6 +1,6 @@
 id = "slatewave"
 name = "Slatewave"
-version = "0.0.1"
+version = "0.0.2"
 schema_version = 1
 authors = ["Kevin Langley Jr. <me@kevinlangleyjr.dev>"]
 description = "Dark Zed theme matching the Slatewave palette — slate foundation, teal signature, sky/rose/purple/amber accents."
