@@ -12,6 +12,8 @@ A dark [Zed](https://zed.dev) theme built around a slate foundation and a teal s
 
 > _Slate below, teal above._
 
+![Slatewave preview](docs/preview.png)
+
 </div>
 
 ---
